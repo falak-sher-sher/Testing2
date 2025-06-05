@@ -5,6 +5,7 @@ export default function index() {
   return (
     <View>
       <Text>index</Text>
+      <Text>fALAK sher</Text>
     </View>
   )
 }
